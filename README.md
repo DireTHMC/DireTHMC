@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DireTHMC
-- 👀 I’m interested in Python coding, traveling, Harley Davidson motorcicles.
+- 👀 I’m interested in Python coding, traveling, Harley Davidson motorcycles.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - ask my mobile number
 
